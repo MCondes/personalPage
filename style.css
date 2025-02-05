@@ -1,0 +1,19 @@
+.img-fluid {
+    max-width: 50%;
+    border-radius: 10%;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); 
+}
+
+#icon-grid {
+   background-color:  #3674B5;
+   color:#A1E3F9;
+}
+.lead{
+    font-weight: bold;
+}
+p{
+    font-weight: 500;
+}
+#icon-grid  p {
+    color: #D1F8EF;
+}
